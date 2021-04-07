@@ -48,8 +48,8 @@ console.log(countBasketPrice(basket))
 
 //Ex. 2
 //  const basket = [
-//    ['Ноутбук', 45000, 1],
-//    ['Мышька', 1000, 2],
+//    ['Клавиатура', 78000, 1],
+//    ['Планшет', 3000, 2],
 //  ];
 //
 //  function countBasketPrice(basket) {
